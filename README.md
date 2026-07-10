@@ -409,7 +409,7 @@ dotenv
 
 # Author
 
-**Your Name**
+**Chaya Tarihal**
 
 BCA Full Stack Development Project
 
